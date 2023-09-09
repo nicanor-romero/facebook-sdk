@@ -4,7 +4,7 @@ from setuptools import setup
 exec(open("facebook/version.py").read())
 
 setup(
-    name='facebook-sdk',
+    name='facebook-sdk-nromero',
     version=__version__,                # noqa: F821
     description='This client library (fork) is designed to support the Facebook '
                 'Graph API (v16) and the official Facebook JavaScript SDK, which '
