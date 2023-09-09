@@ -2,11 +2,16 @@
 Changelog
 =========
 
-Version 4.0.0 (unreleased)
+Version 4.0.1
+==========================
+- Add support for Graph API versions 17.0.
+- Remove support for Graph API versions 4.0, 5.0, 6.0, 7.0, 8.0, 9.0 and 10.0.
+
+Version 4.0.0
 ==========================
 - Add support for Python 3.8.
 - Remove support for Python 2.7 and 3.4.
-- Add support for Graph API versions 3.2, 3.3, 4.0, 5.0, 6.0, 7.0 and 8.0.
+- Add support for Graph API versions 3.2, 3.3, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0, 11.0, 12.0, 13.0, 14.0, 15.0 and 16.0.
 - Remove support for Graph API versions 2.8, 2.9, 2.10, 2.11, 2.12, and 3.0.
 - Change default Graph API version to 2.10.
 - Add support for securing Graph API Calls with a proof based on the
