@@ -2,7 +2,7 @@
 Facebook Python SDK
 ===================
 
-This client library is designed to support the `Facebook Graph API`_ and the
+This client library (fork) is designed to support the `Facebook Graph API`_ (v16) and the
 official `Facebook JavaScript SDK`_, which is the canonical way to implement
 Facebook authentication. You can read more about the Graph API by accessing its
 `official documentation`_.
