@@ -2,6 +2,11 @@
 Changelog
 =========
 
+Version 4.0.2
+==========================
+- Add support for Graph API versions 18.0 and 19.0.
+- Remove support for Graph API versions 11.0 and 12.0.
+
 Version 4.0.1
 ==========================
 - Add support for Graph API versions 17.0.
